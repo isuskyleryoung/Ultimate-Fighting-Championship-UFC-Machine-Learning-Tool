@@ -1,2 +1,2 @@
 # Ultimate-Fighting-Championship-UFC-Machine-Learning-Tool
-Machine learning tool for Ultimate Fighting Championship
+This repository is to create a machine learning program for the Ultimate Fighting Championships product, and to deliver measurables that will find the greatest fighters and there own arguments for being the pound for pound greatest of all time within the promotion, as well as discover predicted winners in fights using that data as well as figuring out if future bets on these fights would be good bets when it pertains to betting data.
